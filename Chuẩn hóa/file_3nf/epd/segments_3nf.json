@@ -1,0 +1,34 @@
+[
+  {
+    "segment_id":1,
+    "segment_name":"Activewear"
+  },
+  {
+    "segment_id":2,
+    "segment_name":"All-weather"
+  },
+  {
+    "segment_id":3,
+    "segment_name":"Balanced"
+  },
+  {
+    "segment_id":4,
+    "segment_name":"Everyday"
+  },
+  {
+    "segment_id":5,
+    "segment_name":"Performance"
+  },
+  {
+    "segment_id":6,
+    "segment_name":"Premium"
+  },
+  {
+    "segment_id":7,
+    "segment_name":"Standard"
+  },
+  {
+    "segment_id":8,
+    "segment_name":"Trendy"
+  }
+]

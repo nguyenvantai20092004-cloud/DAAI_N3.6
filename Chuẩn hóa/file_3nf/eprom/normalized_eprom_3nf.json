@@ -1,0 +1,314 @@
+{
+  "categories": [
+    {
+      "category_id": "CAT-01",
+      "category_name": "Streetwear"
+    },
+    {
+      "category_id": "CAT-02",
+      "category_name": "Outdoor"
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": "CHAN-01",
+      "channel_name": "all_channels"
+    },
+    {
+      "channel_id": "CHAN-02",
+      "channel_name": "email"
+    },
+    {
+      "channel_id": "CHAN-03",
+      "channel_name": "online"
+    },
+    {
+      "channel_id": "CHAN-04",
+      "channel_name": "social_media"
+    },
+    {
+      "channel_id": "CHAN-05",
+      "channel_name": "in_store"
+    }
+  ],
+  "promotion_campaigns": [
+    {
+      "campaign_code": "PROMO-0039",
+      "promo_name": "Fall Launch 2020",
+      "promo_type": "percentage",
+      "discount_value": 10.0,
+      "start_date": "2020-08-30",
+      "end_date": "2020-10-01",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 0,
+      "min_order_value": 150000
+    },
+    {
+      "campaign_code": "PROMO-0029",
+      "promo_name": "Fall Launch 2018",
+      "promo_type": "percentage",
+      "discount_value": 10.0,
+      "start_date": "2018-08-30",
+      "end_date": "2018-10-01",
+      "category_id": null,
+      "channel_id": "CHAN-02",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0015",
+      "promo_name": "Urban Blowout 2015",
+      "promo_type": "fixed",
+      "discount_value": 50.0,
+      "start_date": "2015-07-30",
+      "end_date": "2015-09-02",
+      "category_id": "CAT-01",
+      "channel_id": "CHAN-03",
+      "stackable_flag": 0,
+      "min_order_value": 200000
+    },
+    {
+      "campaign_code": "PROMO-0043",
+      "promo_name": "Fall Launch 2021",
+      "promo_type": "percentage",
+      "discount_value": 10.0,
+      "start_date": "2021-08-30",
+      "end_date": "2021-10-02",
+      "category_id": null,
+      "channel_id": "CHAN-02",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0008",
+      "promo_name": "Mid-Year Sale 2014",
+      "promo_type": "percentage",
+      "discount_value": 18.0,
+      "start_date": "2014-06-23",
+      "end_date": "2014-07-22",
+      "category_id": null,
+      "channel_id": "CHAN-04",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0021",
+      "promo_name": "Spring Sale 2017",
+      "promo_type": "percentage",
+      "discount_value": 12.0,
+      "start_date": "2017-03-18",
+      "end_date": "2017-04-17",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0019",
+      "promo_name": "Fall Launch 2016",
+      "promo_type": "percentage",
+      "discount_value": 10.0,
+      "start_date": "2016-08-30",
+      "end_date": "2016-10-01",
+      "category_id": null,
+      "channel_id": "CHAN-03",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0023",
+      "promo_name": "Fall Launch 2017",
+      "promo_type": "percentage",
+      "discount_value": 10.0,
+      "start_date": "2017-08-30",
+      "end_date": "2017-10-02",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 1,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0011",
+      "promo_name": "Spring Sale 2015",
+      "promo_type": "percentage",
+      "discount_value": 12.0,
+      "start_date": "2015-03-18",
+      "end_date": "2015-04-17",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 1,
+      "min_order_value": 100000
+    },
+    {
+      "campaign_code": "PROMO-0024",
+      "promo_name": "Year-End Sale 2017",
+      "promo_type": "percentage",
+      "discount_value": 20.0,
+      "start_date": "2017-11-18",
+      "end_date": "2018-01-02",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0036",
+      "promo_name": "Rural Special 2019",
+      "promo_type": "percentage",
+      "discount_value": 15.0,
+      "start_date": "2019-01-30",
+      "end_date": "2019-03-01",
+      "category_id": "CAT-02",
+      "channel_id": "CHAN-05",
+      "stackable_flag": 1,
+      "min_order_value": 150000
+    },
+    {
+      "campaign_code": "PROMO-0040",
+      "promo_name": "Year-End Sale 2020",
+      "promo_type": "percentage",
+      "discount_value": 20.0,
+      "start_date": "2020-11-18",
+      "end_date": "2021-01-01",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0003",
+      "promo_name": "Fall Launch 2013",
+      "promo_type": "percentage",
+      "discount_value": 10.0,
+      "start_date": "2013-08-30",
+      "end_date": "2013-10-02",
+      "category_id": null,
+      "channel_id": "CHAN-02",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0022",
+      "promo_name": "Mid-Year Sale 2017",
+      "promo_type": "percentage",
+      "discount_value": 18.0,
+      "start_date": "2017-06-23",
+      "end_date": "2017-07-22",
+      "category_id": null,
+      "channel_id": "CHAN-03",
+      "stackable_flag": 0,
+      "min_order_value": 150000
+    },
+    {
+      "campaign_code": "PROMO-0002",
+      "promo_name": "Mid-Year Sale 2013",
+      "promo_type": "percentage",
+      "discount_value": 18.0,
+      "start_date": "2013-06-23",
+      "end_date": "2013-07-22",
+      "category_id": null,
+      "channel_id": "CHAN-03",
+      "stackable_flag": 0,
+      "min_order_value": 0
+    },
+    {
+      "campaign_code": "PROMO-0034",
+      "promo_name": "Year-End Sale 2019",
+      "promo_type": "percentage",
+      "discount_value": 20.0,
+      "start_date": "2019-11-18",
+      "end_date": "2020-01-02",
+      "category_id": null,
+      "channel_id": "CHAN-01",
+      "stackable_flag": 0,
+      "min_order_value": 50000
+    }
+  ],
+  "promotions": [
+    {
+      "promo_id": "PROMO-0039-0001",
+      "campaign_code": "PROMO-0039"
+    },
+    {
+      "promo_id": "PROMO-0029-0002",
+      "campaign_code": "PROMO-0029"
+    },
+    {
+      "promo_id": "PROMO-0015-0003",
+      "campaign_code": "PROMO-0015"
+    },
+    {
+      "promo_id": "PROMO-0043-0004",
+      "campaign_code": "PROMO-0043"
+    },
+    {
+      "promo_id": "PROMO-0008-0005",
+      "campaign_code": "PROMO-0008"
+    },
+    {
+      "promo_id": "PROMO-0021-0006",
+      "campaign_code": "PROMO-0021"
+    },
+    {
+      "promo_id": "PROMO-0039-0007",
+      "campaign_code": "PROMO-0039"
+    },
+    {
+      "promo_id": "PROMO-0019-0008",
+      "campaign_code": "PROMO-0019"
+    },
+    {
+      "promo_id": "PROMO-0023-0009",
+      "campaign_code": "PROMO-0023"
+    },
+    {
+      "promo_id": "PROMO-0011-0010",
+      "campaign_code": "PROMO-0011"
+    },
+    {
+      "promo_id": "PROMO-0011-0011",
+      "campaign_code": "PROMO-0011"
+    },
+    {
+      "promo_id": "PROMO-0024-0012",
+      "campaign_code": "PROMO-0024"
+    },
+    {
+      "promo_id": "PROMO-0036-0013",
+      "campaign_code": "PROMO-0036"
+    },
+    {
+      "promo_id": "PROMO-0040-0014",
+      "campaign_code": "PROMO-0040"
+    },
+    {
+      "promo_id": "PROMO-0024-0015",
+      "campaign_code": "PROMO-0024"
+    },
+    {
+      "promo_id": "PROMO-0003-0016",
+      "campaign_code": "PROMO-0003"
+    },
+    {
+      "promo_id": "PROMO-0022-0017",
+      "campaign_code": "PROMO-0022"
+    },
+    {
+      "promo_id": "PROMO-0002-0018",
+      "campaign_code": "PROMO-0002"
+    },
+    {
+      "promo_id": "PROMO-0019-0008",
+      "campaign_code": "PROMO-0019"
+    },
+    {
+      "promo_id": "PROMO-0034-0074",
+      "campaign_code": "PROMO-0034"
+    },
+    {
+      "promo_id": "PROMO-0034-0122",
+      "campaign_code": "PROMO-0034"
+    }
+  ]
+}

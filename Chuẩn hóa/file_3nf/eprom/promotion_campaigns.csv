@@ -1,0 +1,17 @@
+﻿campaign_code,promo_name,promo_type,discount_value,start_date,end_date,category_id,channel_id,stackable_flag,min_order_value
+PROMO-0039,Fall Launch 2020,percentage,10.0,2020-08-30,2020-10-01,,CHAN-01,0,150000
+PROMO-0029,Fall Launch 2018,percentage,10.0,2018-08-30,2018-10-01,,CHAN-02,0,0
+PROMO-0015,Urban Blowout 2015,fixed,50.0,2015-07-30,2015-09-02,CAT-01,CHAN-03,0,200000
+PROMO-0043,Fall Launch 2021,percentage,10.0,2021-08-30,2021-10-02,,CHAN-02,0,0
+PROMO-0008,Mid-Year Sale 2014,percentage,18.0,2014-06-23,2014-07-22,,CHAN-04,0,0
+PROMO-0021,Spring Sale 2017,percentage,12.0,2017-03-18,2017-04-17,,CHAN-01,0,0
+PROMO-0019,Fall Launch 2016,percentage,10.0,2016-08-30,2016-10-01,,CHAN-03,0,0
+PROMO-0023,Fall Launch 2017,percentage,10.0,2017-08-30,2017-10-02,,CHAN-01,1,0
+PROMO-0011,Spring Sale 2015,percentage,12.0,2015-03-18,2015-04-17,,CHAN-01,1,100000
+PROMO-0024,Year-End Sale 2017,percentage,20.0,2017-11-18,2018-01-02,,CHAN-01,0,0
+PROMO-0036,Rural Special 2019,percentage,15.0,2019-01-30,2019-03-01,CAT-02,CHAN-05,1,150000
+PROMO-0040,Year-End Sale 2020,percentage,20.0,2020-11-18,2021-01-01,,CHAN-01,0,0
+PROMO-0003,Fall Launch 2013,percentage,10.0,2013-08-30,2013-10-02,,CHAN-02,0,0
+PROMO-0022,Mid-Year Sale 2017,percentage,18.0,2017-06-23,2017-07-22,,CHAN-03,0,150000
+PROMO-0002,Mid-Year Sale 2013,percentage,18.0,2013-06-23,2013-07-22,,CHAN-03,0,0
+PROMO-0034,Year-End Sale 2019,percentage,20.0,2019-11-18,2020-01-02,,CHAN-01,0,50000

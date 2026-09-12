@@ -1,0 +1,26 @@
+[
+  {
+    "category_id":1,
+    "category_name":"Casual"
+  },
+  {
+    "category_id":2,
+    "category_name":"GenZ"
+  },
+  {
+    "category_id":3,
+    "category_name":"N\/A"
+  },
+  {
+    "category_id":4,
+    "category_name":"Outdoor"
+  },
+  {
+    "category_id":5,
+    "category_name":"Streetwear"
+  },
+  {
+    "category_id":6,
+    "category_name":"Unknown_999"
+  }
+]
