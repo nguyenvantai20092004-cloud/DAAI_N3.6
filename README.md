@@ -1,7 +1,7 @@
 # DAAI_N3.6
 Danh sách thành viên   
 
-24636991	Nguyễn Văn Tài
+24636991	Nguyễn Văn Tài (nhóm trưởng)
 
 24636291	Nguyễn Cảnh Sinh
 
